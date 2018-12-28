@@ -14,5 +14,24 @@
  5> 主语 + 谓语 + 宾语 + 宾补
 	 eg. We made him our monitor
 	
+
+2. Be动词的形式:
+be, is, am, are, was, were, being, been
+ 1> The man is back.
+ 2> They are back.
+ 3> He was back.
+ 4> They were back
+ 5> They have been back.  // 他们已经回来了, 动词完成时态
 	
-	
+	be动词的用法
+
+	后面接名词, 形容词, 地点副词或者短语作补足语
+	也就是说, be动词,连接主语和补足语
+	1> The man is a teacher.
+	2> Mary's new dresses are colorful.
+	3> My mother was in the kitchen.
+
+	Be 动词的练习
+	They re teachers		// 他们是老师
+	He was a teacher before.  // 他以前是一名老师
+	He has been a teacher for three years.  // 他已经当3年老师了
